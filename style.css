@@ -1,0 +1,76 @@
+/* y en esta seccion le colocare estilo a mi pagina web */
+body{
+    font-family: 'Times New Roman', Times, serif;
+background-color: pink;
+}
+header{
+    font-size: 90px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.411);
+    margin: 1cm;
+}
+img {
+    border-radius: 30%;
+    width: 200px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+
+
+}
+
+p{
+    text-align: center;
+    text-decoration:solid;
+    transition:all;
+    text-decoration: double;
+}
+
+#cosas{
+    text-box: #ffff;
+    color: aliceblue;
+    font-size: 16px;
+    color: rgb(60, 46, 52);
+    text-align: center;
+    background-color: skyblue;
+    border-radius: 25px;
+}
+h1{
+    font-size: 50pv;
+    color:black;
+    background-color: plum;
+    text-align: center;
+    border-radius: 30px;
+    text-decoration: dotted;
+}
+
+h2 {
+    background-color: plum;
+    font-size: 50pv;
+    color:black;
+    text-align: center;
+    border-radius: 40px;
+}
+ul{
+    font-size: 25px;
+}
+
+#nose {
+    text-box: #ffff;
+    color: aliceblue;
+    font-size: 16px;
+    color: rgb(60, 46, 52);
+    text-align: center;
+    background-color: skyblue;
+    border-radius: 25px;
+}
+
+footer{
+    background-color: grey;
+    padding-top: 10px;
+    text-align: center;
+    margin-bottom: auto;
+}
+#yo{
+    font-family:monospace;
+}
